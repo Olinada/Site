@@ -5,13 +5,13 @@ body {
  font-family: "chakra petch" , "sans-pertif"
 }
 header{
- border-bottom: solid 2px rgb (42, 122, 220)
+ border-bottom: solid 2px rgb(red, green, blue) (42, 122, 220)
  padding: 20px;
  font-size: 32px;
- color: rgb (42, 122, 220)
+ color: rgb(red, green, blue) (42, 122, 220)
 }
 section{
- background: rgb (184, 156, 213)
+ background: rgb(red, green, blue) (184, 156, 213)
  padding-bottom: 80px;
  padding-top: 80px;
  display: flex;
